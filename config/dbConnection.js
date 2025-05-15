@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 
-const URI =   "mongodb+srv://hamzaqazi2508:admin@cluster0.k35qzg8.mongodb.net/"
+const URI =   "mongodb+srv://hamzaqazi2508:<password321>@cluster0.k35qzg8.mongodb.net/"
  ;
 // console.log(URL,"url>>>>>>>>>>>>>>>>>>");
 
